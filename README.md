@@ -18,3 +18,4 @@ The graph above is an eaiser was to see the overall Total Fares by City Type and
 
 ## Summary
 
+In summary, it is clear that most of the revenue is generated in the Urban areas.  There is also an increase in activity in the rideshare catagory around March.  This could be conttibuted to the change in weather and people wanting to be outside more.  This analysis is beneficial for the CEO to identify areas to focus their efforts.
